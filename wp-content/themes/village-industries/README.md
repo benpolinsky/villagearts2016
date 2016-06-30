@@ -1,0 +1,1 @@
+# Banner - Use as high-resolution / large image as possible.
